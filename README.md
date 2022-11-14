@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @umasshia
 - 👀 I’m interested in AppDev
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning React.js
 - 💞️ I’m looking to collaborate on anything
 
 <!---
