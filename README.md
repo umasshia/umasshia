@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @umasshia
 - 👀 I’m interested in AppDev
-- 🌱 I’m currently learning React.js
+- 🌱 I’m currently learning C# and the Entity Core Framework
 - 💞️ I’m looking to collaborate on anything
 
 <!---
